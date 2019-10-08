@@ -1,0 +1,18 @@
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.exe.config
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.exe
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.pdb
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.csprojResolveAssemblyReference.cache
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project_2_Editor.FormEditor.resources
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project_2_Editor.Properties.Resources.resources
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.csproj.GenerateResource.Cache
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.exe
+c:\users\malesela\documents\visual studio 2013\Projects\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.pdb
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.exe.config
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.exe
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.pdb
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.exe
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\bin\Debug\Project 2 Editor.pdb
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.csprojResolveAssemblyReference.cache
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project_2_Editor.FormEditor.resources
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project_2_Editor.Properties.Resources.resources
+C:\Users\Malesela\Documents\Visual Studio 2013\Projects\Project 2 Editor\Project 2 Editor\Project 2 Editor\obj\Debug\Project 2 Editor.csproj.GenerateResource.Cache
